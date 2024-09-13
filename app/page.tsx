@@ -1,3 +1,4 @@
+export const runtime = "edge";
 import WordRotate from "@/components/fancy/word-rotate";
 import SvgGenerator from "@/components/svg-generator";
 
