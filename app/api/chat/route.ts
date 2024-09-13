@@ -1,4 +1,5 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
+export const runtime = 'edge';
 export const maxDuration = 60;
 import { NextResponse } from "next/server";
 import Anthropic from "@anthropic-ai/sdk";
